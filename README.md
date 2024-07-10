@@ -26,4 +26,4 @@ This project is licensed under the MIT License.
 - `script.js`: The JavaScript file that contains the logic for spinning the wheel and selecting a book.
 - `convert.py`: The Python script to convert Goodreads CSV export to JSON.
 
-## Python Script
+
