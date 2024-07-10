@@ -2,7 +2,7 @@
 
 ## Description
 
-Spin the Wheel - Book Selector is a web application that helps you randomly select a book from your "to-read" list. The application uses data exported from Goodreads and converted to a JSON file, containing only the titles and number of pages of books marked as "to-read".
+Spin the Wheel - Book Selector is a web application that helps you randomly select a book from your "to-read" list. The application uses data exported from Goodreads and converted to a JSON file, containing only the titles and number of pages of books marked as "to-read". Spin a virtual wheel to randomly select and display a book.
 
 ## Author
 - Alexa Tolentino
@@ -23,6 +23,7 @@ Spin the Wheel - Book Selector is a web application that helps you randomly sele
 - `style.css`: The stylesheet for the application.
 - `script.js`: The JavaScript file that contains the logic for spinning the wheel and selecting a book.
 - `convert.py`: The Python script to convert Goodreads CSV export to JSON.
+- `books.json`: The JSON file with book data.
 
 ## Links
 
